@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John's earnest request: or, Betty's compassionate love extended to him in time of distress. Late in the night, when all was fast, John came in both cold and wet, and after some few words were past, her lover in she let. To a pleasant new tune much in request. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03917</idno>
+            <idno type="STC">Wing J767</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[238]</idno>
+            <idno type="EEBO-CITATION">99887729</idno>
+            <idno type="PROQUEST">ocm99887729</idno>
+            <idno type="VID">183394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183394)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[185])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John's earnest request: or, Betty's compassionate love extended to him in time of distress. Late in the night, when all was fast, John came in both cold and wet, and after some few words were past, her lover in she let. To a pleasant new tune much in request. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Golden-Ball in Pye-corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Come, open the door, sweet Betty ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="238" facs="tcp:183394:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <hi>Johns Earneſt Requeſt: OR, Betty</hi>'s compaſſionate Love extended to him in a time of Diſtreſs.</head>
+            <argument>
+               <l>Late in the Night, when all was faſt,</l>
+               <l>John came in both cold and wet,</l>
+               <l>And after ſome few words were paſt,</l>
+               <l>her Lover in ſhe let.</l>
+            </argument>
+            <opener>To a Pl<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>nt new Tune much in requeſt.</opener>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed;</p>
+                        <closer>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>COme open the Door ſweet <hi>Betty,</hi>
+               </l>
+               <l>for 'tis a cold winters night,</l>
+               <l>It rains, and it blows, and it thunders,</l>
+               <l>and the Moon it do's give no light.</l>
+               <l>It is all for the love of ſweet <hi>Betty,</hi>
+               </l>
+               <l>that here I have loſt my way;</l>
+               <l>Sweet let me lye behind thee,</l>
+               <l>untill it is break of Day.</l>
+            </lg>
+            <lg>
+               <l>I dare not come down ſweet <hi>Johnny,</hi>
+               </l>
+               <l>nor I dare not now let you in,</l>
+               <l>or fear of my Father's anger,</l>
+               <l>and the reſt of my other Kin:</l>
+               <l>For my Father he is awake,</l>
+               <l>and my Mother ſhe <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill us hear</l>
+               <l>Therefore be gone ſweet <hi>Johnny,</hi>
+               </l>
+               <l>my I<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and only Dear.</l>
+            </lg>
+            <lg>
+               <l>If that thou doſt love me ſhow it,</l>
+               <l>and do not in anger frown,</l>
+               <l>Thy Parents they need not know it,</l>
+               <l>if thou will come Softly down:</l>
+               <l>Then prithee no don't deny me,</l>
+               <l>but come at thy Lover's Call;</l>
+               <l>For what tho' I ſhould lye by thee,</l>
+               <l>I'll do thee no harm at all.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Alas! <gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> loath to venture,</l>
+               <l>for if that they ſhould awake,</l>
+               <l>As ſoon as the Door you enter</l>
+               <l>a Racket I'm ſure they'll make:</l>
+               <l>You know that old Folks are froward,</l>
+               <l>and iealous of handſome Men,</l>
+               <l>And ſhould we be over-power'd,</l>
+               <l>in what a caſe were we then.</l>
+            </lg>
+            <lg>
+               <l>I'll ſhelter my Dear from danger,</l>
+               <l>ſhould any Outrage begin,</l>
+               <l>Thou knoweſt that I am no ſtranger,</l>
+               <l>then prithee Love let me in:</l>
+               <l>Long time in the Cold, I've tarry'd,</l>
+               <l>oh! pity thy true Love <hi>John,</hi>
+               </l>
+               <l>To morrow we will be married,</l>
+               <l>as I am an honeſt Man,</l>
+            </lg>
+            <lg>
+               <l>This is a fair pleaſing Story,</l>
+               <l>Which almoſt my Heart has won,</l>
+               <l>But if you ſhould blaſt my Glory,</l>
+               <l>And leave me when all is done,</l>
+               <l>My Father would ſurely chide me,</l>
+               <l>my Mother would ſcold and brawl,</l>
+               <l>And all the young Maids deride me,</l>
+               <l>oh! this is the worſt of all.</l>
+            </lg>
+            <lg>
+               <l>Thy <hi>Johny</hi> will ne<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er deceive thee,</l>
+               <l>but love thee as dear as my Life:</l>
+               <l>Nor will I one hour leave thee,</l>
+               <l>untill thou art made my Wife:</l>
+               <l>Let me not ſtand any longer,</l>
+               <l>for why? dear <hi>Betty</hi> behold,</l>
+               <l>The Storm grows ſtronger and ſtronger,</l>
+               <l>and I am both wet and cold.</l>
+            </lg>
+            <lg>
+               <l>It was about midnight hour,</l>
+               <l>W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en <hi>John</hi> he did thus complain;</l>
+               <l>Poor heart! ſhe had not the power</l>
+               <l>to let him ſtand in the Rain:</l>
+               <l>Without any longer dodging,</l>
+               <l>ſhe open'd the door with ſpeed,</l>
+               <l>And let him unto her Lodging,</l>
+               <l>good Man he had ne'er more need.</l>
+            </lg>
+            <lg>
+               <l>It being cold Winter Weather,</l>
+               <l>they ſtrait did hurry to Bed,</l>
+               <l>And there they cuddl'd together,</l>
+               <l>and <hi>John</hi> got her Maiden-head,</l>
+               <l>She was of a coueteous Carriage,</l>
+               <l>by which young <hi>Johnny</hi> was wed,</l>
+               <l>Next day they were join'd in Marriage,</l>
+               <l>and was not this honeſtly done!</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for P. Brooksby at the <hi>Golden-Ball</hi> in Pye-Corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
